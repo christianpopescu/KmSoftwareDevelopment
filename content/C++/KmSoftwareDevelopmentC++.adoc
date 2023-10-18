@@ -1,0 +1,33 @@
+= Knowledge Management for Software Development on C++
+Doc Writer <christian.popescu@outlook.com>
+v 1.0, 2023-10-18
+:sectnums:
+:toc:
+:toclevels: 5
+
+== Parse string separated by separator
+
+== Analyzing character by character the string, no external function used
+
+[source, c++]
+----
+include::../../src/C++/CPlusPlusRunner/ParseCharSeparatedByCode.cpp[]
+----
+
+=== Using find function
+
+Searches the string for the first occurrence of the sequence specified by its arguments.
+
+When *pos* is specified, the search only includes characters at or after position pos, ignoring any possible occurrences that include characters before pos.
+
+Returned value
+
+* The position of the first character of the first match.
+* If no matches were found, the function returns string::npos.
+
+
+
+[source, c++]
+----
+include::../../src/C++/CPlusPlusRunner/ParseCharSeparatedFind.cpp[]
+----
