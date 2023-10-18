@@ -29,5 +29,5 @@ Returned value
 
 [source, c++]
 ----
-include::../../src/Cpp/CPlusPlusRunner/ParseCharSeparatedFind.cpp[]
+include::src/ParseCharSeparatedFind.cpp[]
 ----
