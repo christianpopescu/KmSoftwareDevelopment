@@ -11,7 +11,7 @@ v 1.0, 2023-10-18
 
 [source, c++]
 ----
-include::../../src/C++/CPlusPlusRunner/ParseCharSeparatedByCode.cpp[]
+include::../../src/Cpp/CPlusPlusRunner/ParseCharSeparatedByCode.cpp[]
 ----
 
 === Using find function
@@ -29,5 +29,5 @@ Returned value
 
 [source, c++]
 ----
-include::../../src/C++/CPlusPlusRunner/ParseCharSeparatedFind.cpp[]
+include::../../src/Cpp/CPlusPlusRunner/ParseCharSeparatedFind.cpp[]
 ----
