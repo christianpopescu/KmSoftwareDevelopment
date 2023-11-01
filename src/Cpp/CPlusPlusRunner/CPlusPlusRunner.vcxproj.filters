@@ -30,5 +30,11 @@
     <ClCompile Include="MainPatternToDuplicate.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="DataStructuresAndAlgorithms\BinarySearch.cpp">
+      <Filter>DataStructuresAndAlgorithms</Filter>
+    </ClCompile>
+    <ClCompile Include="DataStructuresAndAlgorithms\Heap.cpp">
+      <Filter>DataStructuresAndAlgorithms</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
