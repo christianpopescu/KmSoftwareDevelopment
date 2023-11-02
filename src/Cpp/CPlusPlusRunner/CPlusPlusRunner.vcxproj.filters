@@ -36,5 +36,8 @@
     <ClCompile Include="DataStructuresAndAlgorithms\Heap.cpp">
       <Filter>DataStructuresAndAlgorithms</Filter>
     </ClCompile>
+    <ClCompile Include="DataStructuresAndAlgorithms\ModifiableHeap.cpp">
+      <Filter>DataStructuresAndAlgorithms</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

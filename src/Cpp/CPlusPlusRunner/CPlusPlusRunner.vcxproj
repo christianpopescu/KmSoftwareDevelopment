@@ -130,7 +130,10 @@
     <ClCompile Include="DataStructuresAndAlgorithms\BinarySearch.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="DataStructuresAndAlgorithms\Heap.cpp" />
+    <ClCompile Include="DataStructuresAndAlgorithms\Heap.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="DataStructuresAndAlgorithms\ModifiableHeap.cpp" />
     <ClCompile Include="DataStructuresAndAlgorithms\SegmentTree.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
