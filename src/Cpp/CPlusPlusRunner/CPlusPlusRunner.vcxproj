@@ -133,10 +133,13 @@
     <ClCompile Include="DataStructuresAndAlgorithms\Heap.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="DataStructuresAndAlgorithms\ModifiableHeap.cpp" />
+    <ClCompile Include="DataStructuresAndAlgorithms\ModifiableHeap.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
     <ClCompile Include="DataStructuresAndAlgorithms\SegmentTree.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="DataStructuresAndAlgorithms\TrieWithTopKSearch.cpp" />
     <ClCompile Include="MainPatternToDuplicate.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
