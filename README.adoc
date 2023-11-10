@@ -1,5 +1,5 @@
 = KmSoftwareDevelopment
 Knowledge Management for Software Development.
 
-The purpose is to document some standard task used during development implemented in differents languages.
+The purpose is to document some standard task used during development implemented in different languages.
 
